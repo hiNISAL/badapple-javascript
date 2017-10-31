@@ -1,7 +1,7 @@
 # badapple-javascript
-在目录下使用 <code>npm install</code>
+在目录下使用 `npm install`
 
-然后在命令行中 <code>node app.js</code>
-需要修改端口和ip在<code>app.js</code>中修改就好了
+然后在命令行中 `node app.js`
+需要修改端口和ip在`app.js`中修改就好了
 
-或者直接打开<code>public</code>下的<code>index.html</code>
+或者直接打开`public`下的`index.html`
